@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light.svg" width="20%" height="20%" alt="Block Foundation Logo">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light.svg" width="20%" height="20%" alt="Block Foundation Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>Block Foundation</h1>
 
